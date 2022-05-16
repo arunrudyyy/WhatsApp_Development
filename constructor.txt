@@ -1,10 +1,10 @@
 Constructor: It is a block of code that initializes the newly created object. Its is Similar to Medthod in Java and same name as class name. It does not have any Return Type. Constructor can over load.
 
 Main Purpose of Constructor?
-To initialize the object we use constructor.  
+To initialize the object we use constructor...
 
 Only 4 modifiers can use in Constructor.
-1. public 2. private 3. protected 4. default.
+1. public 2. private 3. protected 4. default...
 
 Types of Constructor:
-Default Constructor,  No-Argument Constructor, Parameterized Constructor.
+Default Constructor,  No-Argument Constructor, Parameterized Constructor...
