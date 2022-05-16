@@ -8,3 +8,17 @@ Only 4 modifiers can use in Constructor.
 
 Types of Constructor:
 Default Constructor,  No-Argument Constructor, Parameterized Constructor...
+
+Conditional Statement 
+
+If - The Statements gets executed only the statement is True
+If else - The Statements inside "if" would execute if the condition is True and the Statements inside "else" would execute if the condition is false
+If else if - This statement is used when we need to check multiple conditions. In this statement we have only one "if" and only one "else", however we can have multiple "else if". It is also known as if else if ladder.
+Switch case  - This Statement is used when we have number of options or choices and we may need to perform a different task for each choice.
+
+ Looping Statement ; Loop should have condition or else it is infity loop.
+
+for - for loop (initialization; condition; increment/decrement)
+While -  it is entry control loop which initilaize the condition in begining of the loop
+Do While - it is exit control loop which  will check the condition end of the loop
+
