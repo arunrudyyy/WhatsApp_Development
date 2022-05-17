@@ -22,3 +22,13 @@ for - for loop (initialization; condition; increment/decrement)
 While -  it is entry control loop which initilaize the condition in begining of the loop
 Do While - it is exit control loop which  will check the condition end of the loop
 
+Cucumber:
+
+Cucumber is testing tool that supports BDD framework, If offers a way to write tests that anybody can understand, regardless of their technical knowledge.
+
+Cucumber project Structure.
+1. Feature Files(plain English + Gherkin) - The place where we write the behaviours of our application in plain english and to save we should use .feature extension
+2. Step definition - Java code where tha actual implementation of the feature files are present.
+3. Runner Class - Glue for Features file and their Step definition
+
+
